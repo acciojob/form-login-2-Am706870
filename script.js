@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function submitBtn() {
-	let first = document.getElementById("first name").value;
+	let first = document.getElementById("First Name").value;
 	let last = document.getElementById("last name").value;
 	let phone = document.getElementById("phone number").value;
 	let email = document.getElementById("email id").value;
